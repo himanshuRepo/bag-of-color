@@ -95,7 +95,7 @@ configuration, and to the desired parameters.
 The package must be used with some data that are provided in a separate archive. 
 Download it from our website:
 
-  wget http://www.kooaba.com/docs/holidays_16384pix.zip
+  wget https://github.com/downloads/kooaba/bag-of-color/bag_of_colors_package.zip
 
 and extract it in the root directory of the package. This additional package 
 contains the re-sized and normalized images (created with make_ppmsmall.sh). 
